@@ -1,0 +1,7 @@
+= Workaround für Ändern der Interpunktion bei Betragsfeldern =
+
+[[Image:Service_registry_patch-DE.png|thumb|Ändern von Startparametern für den Tomcat-Windows-Dienst]]
+
+Download dieses Artikels: {{Vorlage:Pdf|Workaround_für_Interpunktion.pdf}} hier.
+
+In EVM gibt es die Möglichkeit pro Firma die Interpunktion bei der Betragseingabe zu ändern. Zum Beispiel kann man für die Firma 'DE' die Interpunktion 1.000.000,50 € (1 Million € und 50 Cent) wählen, wohingegen man in der Firma 'CA' die Interpunktion 1,000,000.50 € wählen würde.
